@@ -1,5 +1,12 @@
-## Hi there 👋
-
+## Bonjour 👋
+Je suis un développeur à la recherche de rêves.
+<div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-BDE038?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-A3AB78?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-818274?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Django-506266?style=for-the-badge&logo=Django&logoColor=white">
+          <img src="https://img.shields.io/badge/Unity-10454F?style=for-the-badge&logo=Unity&logoColor=white">
+          </div>
+    </div>
 <!--
 **jiyoon607/jiyoon607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
