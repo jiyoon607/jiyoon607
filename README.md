@@ -1,5 +1,5 @@
-## Bonjour 👋
-Je suis un développeur à la recherche de rêves.
+## 반갑습니다 👋
+저는 혁신적인 게임을 개발하여 새로운 경험을 제공하는 것이 꿈입니다.
 <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-BDE038?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-A3AB78?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-818274?style=for-the-badge&logo=Python&logoColor=white">
