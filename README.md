@@ -1,4 +1,4 @@
-## 개발자 정지윤입니다 👋
+## 안녕하세요, 정지윤입니다 👋
 <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-BDE038?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-A3AB78?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-818274?style=for-the-badge&logo=Python&logoColor=white">
